@@ -8,3 +8,4 @@ git add .
 git commit -m "comentario"
 git remote add identificador URL_do_repositorio_remoto_GitHub
 git push -u identificador rama
+git commit -a
